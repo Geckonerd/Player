@@ -1,0 +1,3 @@
+Player, Character
+Ethan, Eloro
+Kesley, Ivan the Terrible
